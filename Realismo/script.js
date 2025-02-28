@@ -15,7 +15,7 @@ const autoresInfo = {
         nome: 'Gustave Flaubert',
         bio: 'Gustave Flaubert (1821-1880) foi um escritor francês considerado um dos maiores romancistas do século XIX. Ele nasceu em Rouen, na França, e passou grande parte de sua vida nessa cidade. Flaubert é conhecido por seu estilo minucioso e detalhado, sua busca pela perfeição na escrita e pela crítica social presente em suas obras.',
         obras: ['Madame Bovary'],
-        caracteristicas: ['Naturalismo', 'Crítica social', 'Retrato da miséria urbana', 'Estudo do comportamento humano']
+        caracteristicas: ['Objetividade', 'Antirromantismo', 'Ausência de idealizações', 'Crítica sociopolítica']
     },
     raul: {
         nome: 'Raul Pompeia',
